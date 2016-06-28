@@ -9,7 +9,6 @@ A roulette game built using Lego blocks, Lego controller, Alter FPGA
 
 ### Programming languages, algorithms, and hardware
 
-Dillinger uses a number of open source projects to work properly:
 
 * [C] - To implement a random number generator using linear-feedback shift register 
 * [Assembly] - we configured a motor, audio, and timer(on FPGA)
