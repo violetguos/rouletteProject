@@ -2,7 +2,7 @@
 
 A roulette game built using Lego blocks, Lego controller, Altera FPGA
 
-  - It deslays the rules
+  - display rules
   - Let the user input the bet from keyboard
   - Plays music in the end
 
